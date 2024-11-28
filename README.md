@@ -2,7 +2,6 @@
 
 🌱 I’m currently learning Web Development based on Javascript
 - 
-# Project-based 🎲 JavaScript Web-Service Developer course
 
 1️⃣ 101  
 - HTML/CSSS, JavaScript
