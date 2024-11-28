@@ -2,18 +2,25 @@
 
 🌱 I’m currently learning Web Development based on Javascript
 - 
+# Project-based 🎲 JavaScript Web-Service Developer course
 
-1️⃣ 101<br>
-HTML/CSSS, JavaScript<br>
-
-2️⃣ Back-end<br>
-Node.js: Asynchronous programming, Modularization, HTTP Web Server<br>
-Express: Routing, Middleware, Template Engine, REST-API design, Web Server<br>
-Database: DB, SQL, CRUD, Join, Index<br>
-
-3️⃣ Front-end<br>
-Bootstrap: Component Design, Processing Asynchronous Request (JS)<br>
-React: Frone-end Development<br>
+1️⃣ 101  
+- HTML/CSSS, JavaScript
+  
+  1-week Project: JS-based CRM (Data Populator)  
+  
+2️⃣ Back-end  
+- Node.js: Asynchronous programming, Modularization, HTTP Web Server
+- Express: Routing, Middleware, Template Engine, REST-API design, Web Server
+- DB / Web service: DB, SQL, CRUD, Join, Index
+  
+  1-week Project: CRM Administrator website (Express Framework, Nunjucks Template Engine)
+  
+3️⃣ Front-end  
+- Bootstrap: Component Design, Processing Asynchronous Request (JS)
+- React: Frone-end Development
+  
+  1-week Project: Web Game(Snake)
 
 
 <!--
