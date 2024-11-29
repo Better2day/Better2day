@@ -13,7 +13,7 @@
 - Express: Routing, Middleware, Template Engine, REST-API design, Web Server
 - DB / Web service: DB, SQL, CRUD, Join, Index
   
-  1-week Project: CRM Administrator website (Express Framework, Nunjucks Template Engine)
+  1-week Project: [CRM Administrator website (Express Framework, Nunjucks Template Engine)](https://github.com/Better2day/sesac_js2/tree/main/6.crm/8.project#crm-project)
   
 3️⃣ Front-end  
 - Bootstrap: Component Design, Processing Asynchronous Request (JS)
