@@ -1,10 +1,9 @@
-## Hi there 👋
+#### Hi there 👋
 
-🌱 I’m currently learning Web Development based on Javascript
-- 
-
+## 🌱 I’m currently learning Web Development based on Javascript  
+  
 1️⃣ 101  
-- HTML/CSSS, JavaScript
+- HTML/CSSS, JavaScript  
   
   1-week Project: JS-based CRM (Data Populator)  
   
