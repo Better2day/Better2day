@@ -18,7 +18,7 @@
 - [ ] React: Front-end Development  
 - [ ] ${\textsf{\color{0000BB}1-week Project: BBS, Chatting, Web Game(Snake)}}$  
 <br/><br/>
-## Skillset    
+## 🛠️ Skillset    
 
 | | Skills |
 | -- | -- |
@@ -31,7 +31,7 @@
 | IDE | ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) |
   
 <br/><br/>
-## Dashboard
+## 📈 GitHub Statistics
   
 ![stats](https://github-readme-stats.vercel.app/api?username=Better2day&hide=contribs,prs&show_icons=true&theme=tokyonight)  
 
