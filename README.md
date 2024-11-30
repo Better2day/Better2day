@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=JS%20%20Arena&fontSize=48)
 #### Hi there 👋
 
 ## 🌱 I’m currently learning Web-Service Development based on Javascript  
@@ -20,8 +21,7 @@
 <br/><br/>
 ## Dashboard
   
-![Better2day's GitHub stats](https://github-readme-stats.vercel.app/api?username=Better2day&hide=contribs,prs&show_icons=true&theme=tokyonight)
-
+![stats](https://github-readme-stats.vercel.app/api?username=Better2day&hide=contribs,prs&show_icons=true&theme=tokyonight)  
 
 <!--
 **Better2day/Better2day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
