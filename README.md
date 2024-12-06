@@ -6,7 +6,7 @@
 1️⃣ 101  
 - [x] ${\textsf{\color{gray}HTML/CSS, JavaScript}}$  
 - [x] ${\textsf{\color{0000BB}1-week Project: JS-based CRM (Data Populator)}}$  
-
+  
 2️⃣ Back-end  
 - [x] ${\textsf{\color{gray}Node.js: Asynchronous programming, Modularization, HTTP Web Server}}$  
 - [x] ${\textsf{\color{gray}Express: Routing, Middleware, Template Engine, REST-API design, Web Server}}$  
@@ -15,10 +15,23 @@
   
 3️⃣ Front-end  
 - [x] Bootstrap: Component Design, Processing Asynchronous Request (JS)  
-- [ ] React: Front-end Development  ${\textsf{\color{orange}← I'm learning this now}}$  
+- [x] React: Front-end Development  ${\textsf{\color{orange}← I'm learning this now}}$  
 - [ ] ${\textsf{\color{0000BB}1-week Project: BBS, Chatting, Web Game(Snake)}}$  
+  
+4️⃣ Infrastructure
+- [ ] Cloud(AWS), Linux
+- [ ] Container (Docker & Packaging)
+  
+5️⃣ Team Project (5-weeks)  
+- [ ] Planning
+- [ ] Development
+- [ ] Testing
+- [ ] Distribution
+- [ ] Operation & Monitoring  
+- My R&R: P/M & Back-end Developer
+
 <br/><br/>
-## 🛠️ Skillset    
+## 🛠️ Skillset  
 
 | | Skills |
 | -- | -- |
