@@ -15,18 +15,18 @@
   
 3️⃣ Front-end  
 - [x] Bootstrap: Component Design, Processing Asynchronous Request (JS)  
-- [x] React: Front-end Development
+- [x] React: Front-end Development  
 - [x] Web Game: Snake  
+- [ ] TypeScript ${\textsf{\color{orange}← learning this week}}$  
   
 4️⃣ Infrastructure  
 - [x] Cloud(AWS), Linux  
 - [x] Container (Docker & Packaging)  
   
-5️⃣ Etc (Web, Network, API, Data)  
-- [ ] TypeScript ${\textsf{\color{orange}← learning this week}}$  
+5️⃣ Web technologies (Communication, Data)
 - [x] WebSocket  
 - [x] SSE (Server-Sent Events)
-- [x] API: YouTube, Search Engine, SNS Login, Payment, Map  
+- [x] API: YouTube, Search Engine, SNS Login, Payment, Map
 - [x] Web Scraping  
   
 6️⃣ Team Project (5-weeks)  
